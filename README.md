@@ -115,7 +115,7 @@ I'm passionate about solving complex data challenges and building scalable solut
 
 Interested in discussing data engineering, cloud architecture, or potential opportunities?
 
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/prashanth-vanga)
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/prashanthvanga)
 - **Email:** prashanth.vanga1599@gmail.com
 - **Location:** Dallas, TX
 
