@@ -1,4 +1,4 @@
-# 📊 Data Engineering Portfolio
+
 ## 👋 About Me
 Data Engineer with 4+ years of experience building scalable, cloud-native data solutions that process TB-scale datasets. I specialize in designing and optimizing ETL/ELT pipelines, real-time streaming applications, and analytics-ready data models that empower data-driven decision-making.
 **Current Role:** Data Engineer @ CVS Health (Dallas, TX)
